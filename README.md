@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Chougule</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkachougule&label=Profile%20views&color=0e75b6&style=flat" alt="anushkachougule" /> </p>
-
 - ⚡ **I'm an Information Management student at the University of Maryland, with a deep fascination for how data can transform and shape business decisions.**
 
 - 🔭 I am currently working on **an exploratory data analytics project as part of my curriculum, using the Airbnb dataset for New York City. In this project, I aim to answer specific business questions and deliver insightful results to enhance data-driven decision-making.**
