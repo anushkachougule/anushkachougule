@@ -11,4 +11,4 @@
 
 - 💬 **I appreciate constructive feedback and am enthusiastic about learning from your experiences.**
 
-- 📫 **I'd love to connect with you and explore exciting opportunities together. Feel free to drop me a line via email at writechougule@gmail.com or connect with me on LinkedIn through my profile: www.linkedin.com/in/ anushka-chougule.**
+- 📫 **I'd love to connect with you and explore exciting opportunities together. Feel free to drop me a line via email at anushka7@umd.edu or connect with me on LinkedIn through my profile: www.linkedin.com/in/ anushka-chougule.**
