@@ -9,5 +9,6 @@ Beyond the numbers, I believe data is most powerful when it’s understood—tha
 If you’re working on exciting projects, have insights to share, or just love a good data conversation—let’s connect! 
 
 📧 Email: chouguleanushka04@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/anushka-chougule
 
